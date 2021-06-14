@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    font-family:'Berlin Sans FB';
+}
+
+h2{
+    text-align: center;
+    font-family:'Berlin Sans ';
+}
+
+h3{
+    text-align: center;
+    font-family:'Times New Roman ' ;
+    font-weight: 'bold';
+}
+
+p{
+    text-align: center;
+    font-family:'Times New Roman serif ';
+    font-weight: '1000';
+}
+
+img{
+    margin:50px;
+}
+
+
+.head{
+    display:block;
+    background-color: beige;
+    padding: 30px;
+}
+
+.intro{
+    padding: 40px;
+    background-color: rgb(255, 198, 129);
+}
+
+.muscularforce{
+    margin:50px;
+    background-color:coral;
+}
+
+.frictionalforce{
+    margin:50px;
+    background-color:rgb(248, 107, 55);
+}
+
+.magneticforce{
+    margin:50px;
+    background-color:rgb(248, 107, 55);
+}
+
+.gravitationalforce{
+    margin:50px;
+    background-color:rgb(248, 107, 55);
+}
+
+.electrostaticforce{
+    margin:50px;
+    background-color:rgb(248, 107, 55);
+}
+
+.info{
+    background-color: darkgoldenrod;
+}
+
+.speed{
+    margin:50px;
+    background-color: darkkhaki;
+}
+
+.velocity{
+    margin:50px;
+    background-color: darkkhaki;
+}
+
+.circular{
+    margin:50px;
+    background-color: darkorange;
+}
+
+.periodic{
+    margin:50px;
+    background-color: darkorange;
+}
+
+.rectilinear{
+    margin:50px;
+    background-color: darkorange;
+}
+
+.last{
+    margin: 70px
+}
